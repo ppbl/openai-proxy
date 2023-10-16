@@ -1,0 +1,14 @@
+{
+  "name": "openai-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ppbl.top@gmail.com",
+  "dependencies": {
+    "@fastify/http-proxy": "^9.2.1",
+    "fastify": "^4.24.2"
+  }
+}
